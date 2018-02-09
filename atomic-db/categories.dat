@@ -1,0 +1,18 @@
+[
+    {
+        "category": "jsExample",
+        "order": 3
+    },
+    {
+        "category": "atom",
+        "order": 0
+    },
+    {
+        "category": "molecule",
+        "order": 1
+    },
+    {
+        "category": "organism",
+        "order": 2
+    }
+]
