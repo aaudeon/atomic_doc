@@ -8,51 +8,19 @@
         "has_js": "true"
     },
     {
-        "component": "Titre",
-        "category": "jsExample",
+        "component": "button",
+        "category": "atom",
         "description": "",
         "backgroundColor": "",
         "order": 0,
         "has_js": "false"
     },
     {
-        "component": "button",
-        "category": "atom",
-        "description": "",
-        "backgroundColor": "",
-        "order": -1,
-        "has_js": "false"
-    },
-    {
-        "component": "card",
+        "component": "Boutons",
         "category": "molecule",
         "description": "",
         "backgroundColor": "",
-        "order": -2,
-        "has_js": "false"
-    },
-    {
-        "component": "titre",
-        "category": "atom",
-        "description": "",
-        "backgroundColor": "",
-        "order": -3,
-        "has_js": "false"
-    },
-    {
-        "component": "description",
-        "category": "atom",
-        "description": "",
-        "backgroundColor": "",
-        "order": -4,
-        "has_js": "false"
-    },
-    {
-        "component": "listcard",
-        "category": "organism",
-        "description": "",
-        "backgroundColor": "",
-        "order": -6,
+        "order": -1,
         "has_js": "false"
     }
 ]
