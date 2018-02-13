@@ -11,7 +11,7 @@
         "component": "button",
         "category": "atom",
         "description": "",
-        "backgroundColor": "",
+        "backgroundColor": "#f0f0f0",
         "order": 0,
         "has_js": "false"
     },
@@ -21,6 +21,46 @@
         "description": "",
         "backgroundColor": "",
         "order": -1,
+        "has_js": "false"
+    },
+    {
+        "component": "color",
+        "category": "global",
+        "description": "Ensemble des variables de couleurs",
+        "backgroundColor": "",
+        "order": -2,
+        "has_js": "false"
+    },
+    {
+        "component": "typography",
+        "category": "global",
+        "description": "Exemple de plusieurs taille de texte afin d'avoir un repr\u00e9sentation compl\u00e8te",
+        "backgroundColor": "",
+        "order": -3,
+        "has_js": "false"
+    },
+    {
+        "component": "radius",
+        "category": "global",
+        "description": "Ensemble de variable qui d\u00e9termine la taille des arrondis",
+        "backgroundColor": "",
+        "order": -4,
+        "has_js": "false"
+    },
+    {
+        "component": "shadow",
+        "category": "global",
+        "description": "Ensemble de variable qui d\u00e9termine la taille des ombres port\u00e9es",
+        "backgroundColor": "",
+        "order": -5,
+        "has_js": "false"
+    },
+    {
+        "component": "tableau",
+        "category": "global",
+        "description": "",
+        "backgroundColor": "",
+        "order": -6,
         "has_js": "false"
     }
 ]

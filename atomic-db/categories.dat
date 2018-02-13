@@ -1,18 +1,22 @@
 [
     {
         "category": "jsExample",
-        "order": 3
+        "order": 4
     },
     {
         "category": "atom",
-        "order": 0
-    },
-    {
-        "category": "molecule",
         "order": 1
     },
     {
-        "category": "organism",
+        "category": "molecule",
         "order": 2
+    },
+    {
+        "category": "organism",
+        "order": 3
+    },
+    {
+        "category": "global",
+        "order": 0
     }
 ]

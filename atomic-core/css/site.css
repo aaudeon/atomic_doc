@@ -1472,6 +1472,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
     margin-bottom: 12px;
     color: #00AFF0;
     padding-left: 3px;
+    font-size: 19px;
     max-height: 25px; }
     #atomsWrap .compTitle a {
       text-decoration: none;
@@ -1607,8 +1608,10 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
     #atomsWrap .logo img {
       max-width: 100%; }
 
-html {
-  box-sizing: border-box; }
+#atomsWrap {
+  box-sizing: border-box;
+  font-size: 14px;
+}
 
 *, *:before, *:after {
   box-sizing: inherit; }
