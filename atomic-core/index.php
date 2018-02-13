@@ -362,7 +362,6 @@ $settings = $settings->select(array());
                     <!-- Tab panes -->
                     <div class="tab-content">
 
-
                         <div role="tabpanel" class="tab-pane active"
                              id="<?php echo $component['component'] ?>-markup-tab">
                             <form class="atomic-editorWrap" data-editorFormComp="<?php echo $component['component'] ?>"

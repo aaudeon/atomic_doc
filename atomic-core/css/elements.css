@@ -1,0 +1,4 @@
+.listCard { display: block; }
+.listCard .card-demo { display: inline-block; margin: 5px 15px; padding: 50px 0 0 0; border: 1px solid #efefef; min-width: 175px; background: #8c8c8c; overflow: hidden; }
+.listCard .card-demo span { background: #fff; text-align: center; color: #333; padding: 8px 15px; display: block; border-top: 1px solid #efefef; }
+hr { background: #efefef; border: 0px none; height: 1px; }
